@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1556348658 source:i:\c++\快排\quicksort\quicksort.cpp
+	<iostream>
+
+1556355972 source:i:\c++\快排\quicksort\main.cpp
+	<iostream>
+
+1556348914 i:\c++\快排\quicksort\quicksort.cpp
+	<iostream>
+
+1556355972 source:f:\c++\快排\quicksort\main.cpp
+	<iostream>
+
